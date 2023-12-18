@@ -14,7 +14,7 @@ Information about various GDP indicators of the world's 25 largest economies sho
 <picture>
  <img alt="DATA-FROM-WPR" src="./pictures/1. infofrommap.png">
 </picture>
-
+</br>
 
 Diagram obrazujący wielkość PKB danego kraju względem PKB światowego:
 </br>
@@ -23,7 +23,7 @@ Treemap shows the size of a given country's GDP relative to global GDP:
 <picture>
  <img alt="DATA-FROM-WPR" src="./pictures/2.treemap.png">
 </picture>
-
+</br>
 
 Wybór danych o państwie z tabeli będącej listą 25 największych gospodarek świata:
 </br>
@@ -32,7 +32,7 @@ Selection of data about the country from the table which is a list of the 25 lar
 <picture>
  <img alt="DATA-FROM-WPR" src="./pictures/3.table.png">
 </picture>
-
+</br>
 
 Wykres kolumnowy z danymi o wzroście PKB w 2022 roku dla danego kraju wyrażony w procentach:
 </br>
